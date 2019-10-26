@@ -6,7 +6,7 @@ Ce projet a pour but de visualiser en temps réel le sentiment des tweets que l'
 Pour ce faire nous utiliserons seulement un Raspberry PI 3 ainsi qu'un circuit avec des LEDS et une connexion internet.
 Le projet utilise l'API Twitter "tweepy", l'API NLP de Amazon "AWS comprehend" ainsi que l'API de Google "Text to speech".  
 
-![Architecture](https://github.com/Chatonclem/iot_tweet_and_semantic/blob/master/assets/schema.PNG)
+![Architecture](https://github.com/sly92/IOT_NLP_tweets/blob/master/assets/schema.PNG)
 
 
 ### Prérequis et liens utiles
@@ -14,7 +14,7 @@ Le projet utilise l'API Twitter "tweepy", l'API NLP de Amazon "AWS comprehend" a
 Matériel :
 
 
-![Rapberry Pi 3](https://github.com/Chatonclem/iot_tweet_and_semantic/blob/master/assets/rpi3.jpg)
+![Rapberry Pi 3](https://github.com/sly92/IOT_NLP_tweets/blob/master/assets/rpi3.jpg)
 
 
 Une Raspberry Pi 3
@@ -39,7 +39,7 @@ https://www.sitepoint.com/home-made-twitter-and-gmail-notifications-with-php-and
 ### Architecture :
 
 
-![Rapberry Pi 3 Setup](https://github.com/Chatonclem/iot_tweet_and_semantic/blob/master/assets/archi.PNG)
+![Rapberry Pi 3 Setup](https://github.com/sly92/IOT_NLP_tweets/blob/master/assets/archi.PNG)
 
 
 ### Setup : 
@@ -60,7 +60,7 @@ You will need to plug a headset or speaker to the jack plug. You also can pair w
 
 **Clone the git repository :**
 
-	git clone https://github.com/Chatonclem/iot_tweet_and_semantic.git
+	git clone https://github.com/sly92/IOT_NLP_tweets.git
 
 ## Utilisation
 
